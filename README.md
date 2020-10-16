@@ -1,7 +1,7 @@
 
-# yo
+# SAMPLE
 
-# Table of Content
+# Table of Contents
 -[Description](#description)
 -[Installation](#installation)
 -[Usage](#usage)
@@ -13,31 +13,31 @@
 
 
 ## Description:
- asdasd
+ test
     
 
 ## Installation: 
-f
+testing
 
 
 ## Usage: 
-g
+tested
 
    
 ## Licenses: 
-d
+MIT
 
 
 ## Contribution: 
-f
+just me
 
     
 ## Test:
-g
+nah
 
 
 ## Questions
-f
+zero
 
 
 Contact me:
@@ -45,7 +45,7 @@ Contact me:
 Github: oroth8
 
 ### Email 
-d
+nope
 
 [gitHub_URL](undefined)
 [gitHub_Repo_URL](undefined)

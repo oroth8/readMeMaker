@@ -79,7 +79,6 @@ function getAxios(){
     const userName = promptArr[0].username;
     axios.get(`https://api.github.com/users/${userName}`)
     .then(function(res){
-        console.log("YOOOO");
         promptArr.push(res.data.url);
         promptArr.push(res.data.repos_url);
     });
@@ -91,7 +90,7 @@ function format(){
     return `
 # ${promptArr[0].title}
 
-# Table of Content
+# Table of Contents
 -[Description](#description)
 -[Installation](#installation)
 -[Usage](#usage)
