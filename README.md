@@ -1,4 +1,4 @@
-![Link](https://youtu.be/Q2IyW6Oxj9k)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Q2IyW6Oxj9k/0.jpg)](https://youtu.be/Q2IyW6Oxj9k "README DEMO")
 # SAMPLE
 
 # Table of Contents
